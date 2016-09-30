@@ -1,9 +1,15 @@
 .pallet-pixel {
-   border: 1px solid black;
+   border: 1px dotted black;
+   margin: 10px;
+   border-radius: 40px;
 }
 
 .canvas-pixel {
-   border: 1px solid black;
+   border: 1px dotted black;
+}
+
+#brush-color {
+    margin: auto;
 }
 
 #outer-container {
